@@ -1,1 +1,1 @@
-Image Hosting Repository Utilizing GitHub and PicGo.
+图床
